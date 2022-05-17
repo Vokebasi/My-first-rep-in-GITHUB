@@ -31,6 +31,10 @@ github - web based hosting service for version control.
 
 # git add <filename> or .  --> adds changes to git
 
+# .gitignore --> to ignore some files or directories
+
+
+
 
 
 
